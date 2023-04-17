@@ -1,0 +1,42 @@
+.repository-element {
+  background-color: #f8f8ff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 300px;
+}
+
+.avatar-url {
+  height: 100px;
+  align-self: center;
+}
+.repository-heading {
+  color: #e73959;
+  font-size: 25px;
+  align-self: center;
+  font-weight: 400;
+}
+
+.emoji-count-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1e293b;
+  margin-bottom: 0px;
+}
+
+.emoji-image {
+  height: 15px;
+  margin-right: 8px;
+}
+
+.emoji-content {
+  font-size: 15px;
+}
+.emoji-count {
+  font-size: 15px;
+  margin-right: 6px;
+}
